@@ -22,7 +22,7 @@ Where:
 
 Ex: This will run the code with a dataframe with 10 rows 5 times, and get the average of times.
 ```
-sbt run 10 5
+sbt "run 10 5"
 ```
 
 This will return an output like this:
