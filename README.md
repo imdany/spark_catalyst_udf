@@ -13,7 +13,7 @@ sbt compile
 Run the code with:
 
 ```
-sbt run X Y
+sbt "run X Y"
 ```
 
 Where: 
