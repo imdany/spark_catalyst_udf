@@ -12,7 +12,7 @@ sbt compile
 
 Run the code with:
 
-```aidl
+```
 sbt run X Y
 ```
 
